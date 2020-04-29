@@ -29,7 +29,7 @@ $years = $delay / 3600 / 24 / 365;
 
 echo "Seconds: $seconds <br>";
 echo "Hours: $hours <br>";
-echo "Days: $days <br>";
-echo "Years: $years <br>";
-
+echo "Days: $da
+echo "Years: $yea
 ?>
+
